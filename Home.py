@@ -9,8 +9,6 @@ st.set_page_config(
     initial_sidebar_state = 'expanded'
 )
 
-st.sidebar.title('전처리 및 분석 상세 과정')
-
 st.title("🌍 이슈파인더: 기후 변화 여론 분석 대시보드")
 
 st.markdown("""
